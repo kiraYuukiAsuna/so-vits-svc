@@ -1,0 +1,1 @@
+.\.venv\Scripts\python.exe preprocess_flist_config.py --speech_encoder vec768l12 --vol_aug
