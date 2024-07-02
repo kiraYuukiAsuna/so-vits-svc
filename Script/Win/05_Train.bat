@@ -1,0 +1,1 @@
+.\.venv\Scripts\python.exe train.py -c configs/config.json -m 44k

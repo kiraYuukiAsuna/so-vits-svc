@@ -1,0 +1,1 @@
+.\.venv\Scripts\python.exe train_diff.py -c configs/diffusion.yaml
